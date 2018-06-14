@@ -16,6 +16,8 @@
                 <ul class="nav navbar-nav">
                     <li><a href="form-add.php">Adicionar</a></li>
                     <li><a href="form-busca.php">Buscar</a></li>
+                    <li><a href="lista-pessoa.php">Listar</a></li>
+
                 </ul>
             </div>
         </div>
